@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**rishavkumar584/rishavkumar584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rishavkumar584/rishavkumar584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 # Intro
 Hi, Myself Rishav Kumar, I am a 4th year B.Tech student, excited always to face new challenges in programming & sort
